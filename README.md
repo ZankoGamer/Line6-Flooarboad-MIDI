@@ -19,7 +19,8 @@ This firmware also runs on any custom footswitch rig, you just have to provide y
    ![Expression board](hw%20modifications/expression%20board%20front.png)
 2. **Connect** all pedal wires to the ESP32‑S3’s pins.
 
-![](hw%20modifications/Immagine%202025-05-20%20163453.png)
+The completed board should look something like this. You can found other closeups in the "hw modfications" folder.
+![](hw%20modifications/1747751318078.jpg)
 
 ## Software Setup
 
@@ -46,4 +47,6 @@ This firmware also runs on any custom footswitch rig, you just have to provide y
 
 1. Pair the board in BLE‑MIDI Connect (enable “Show all devices”).
 2. In loopMIDI, select your new port as the output.
-3. Open your DAW, choose the loopMIDI port as MIDI input, and you’re ready to rock!
+3. Open your DAW, choose the loopMIDI port as MIDI input. That's all.
+![](hw%20modifications/Immagine%202025-05-20%20163453.png)
+
